@@ -1,4 +1,4 @@
-# IMDB_data_visulisation
+# IMDB_data_visualisation
 Data visualisation of IMDB data set 
 
 Aishwarya_Gupta_18210298_CA682.pdf consists of a report of the visualisations prepared and the how the data has been cleaned and transformed.
